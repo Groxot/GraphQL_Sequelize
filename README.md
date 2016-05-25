@@ -8,11 +8,11 @@ npm install
 ```
 
 if server is not mssql then install :
-
+```javascript
 $ npm install --save pg pg-hstore
 $ npm install --save mysql
 $ npm install --save sqlite3
-
+```
 
 2 server/config/config.js setup connection
 
