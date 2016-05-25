@@ -34,8 +34,8 @@
     "graphql",
     "sequelize"
   ],
-  "author": "Gopard",
-  "license": "ISC",
+  "author": "Gopard gopardjs@gmail.com",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Groxot/GraphQL_Sequelize/issues"
   },
